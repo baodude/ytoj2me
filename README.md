@@ -7,8 +7,6 @@ ytoj2me
 
 开发设备是Nokia 5500 Sports，运行截图在Screenshot文件夹内
 
-作者：宝哥哥
-
 应用环境：支持j2me的手机设备
 
 开发环境：Java/Eclipse
